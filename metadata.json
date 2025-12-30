@@ -1,0 +1,7 @@
+{
+  "name": "GIHONG Corporate Website",
+  "description": "A modern, high-performance corporate website for (주)기홍, specialized in industrial plant design and equipment manufacturing.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
